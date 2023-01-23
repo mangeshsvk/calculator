@@ -49,7 +49,7 @@ class CalculatorWidget extends StatelessWidget {
       ),
       body: SingleChildScrollView(
         child: SizedBox(
-          height: 0.85.sh,
+          height: 0.89.sh,
           width: 1.sw,
           child: Column(
             children: [
